@@ -2,6 +2,9 @@
 
 This project demonstrates the integration of SQL and Python to analyze e-commerce data, providing insights into customer behavior, sales trends, and product performance.
 
+![Salesman](https://github.com/user-attachments/assets/73ade3f2-113d-404d-b46e-6ba5d9fafc2a)
+
+
 # Project Overview
 
 The primary objective of this project is to showcase how SQL and Python can be combined to perform data analysis on e-commerce datasets. By leveraging SQL for data extraction and manipulation, and Python for further analysis and visualization, the project illustrates a comprehensive approach to data analytics in an e-commerce context.
