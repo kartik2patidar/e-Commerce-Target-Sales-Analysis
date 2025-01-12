@@ -10,7 +10,13 @@ The primary objective of this project is to showcase how SQL and Python can be c
 
 Repository Contents
 
-* python+sql_ecommerce.ipynb: A Jupyter Notebook that contains the step-by-step analysis, including SQL queries executed within Python, data manipulation, and visualization.
-* csv_to_sql.py: A Python script that demonstrates how to load CSV data into a SQL database, facilitating the integration of raw data into a structured database format.
-* Questions.txt: A text file listing the analytical questions addressed in the project, guiding the analysis process to extract meaningful insights from the data.
+* py+sql_Analysis.ipynb: A Jupyter Notebook that contains the step-by-step analysis, including SQL queries executed within Python, data manipulation, and visualization.
+* Queries.txt: A text file listing the analytical queries addressed in the project, guiding the analysis process to extract meaningful insights from the data.
 * dataset_link.txt: A text file containing the link to the dataset used in the project, enabling users to access the same data for replication or further exploration.
+
+# Key Features
+
+* Data Integration: Loading and structuring raw CSV data into a SQL database for efficient querying and analysis.
+* SQL Analysis: Executing complex SQL queries to extract relevant information, such as sales by category, customer purchase patterns, and revenue trends.
+* Python Analysis: Utilizing Python libraries to perform data manipulation, statistical analysis, and visualization, enhancing the depth of insights.
+* Visualization: Creating charts and graphs to represent data findings visually, aiding in the interpretation and communication of results.
